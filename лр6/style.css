@@ -1,0 +1,44 @@
+.li
+{
+   list-style-type: none;
+background-image: url(logo.jpg);
+background-repeat: no-repeat;
+background-position: 0 -10px;
+margin-bottom: 10px;
+padding-left: 50px;
+}
+.body
+{
+   background-image: url(logo2.jpg);
+   background-repeat: no-repeat;
+   background-position: right top;
+   background-attachment: fixed;
+   background-size: 25%;
+}
+div
+{
+   display: inline-block;
+   border: black 1px solid; 
+   width: 100px;
+   height: 100px;
+}
+.div1
+{
+   background-image: linear-gradient(to bottom, blue, red);
+}
+.div2
+{
+   background-image: repeating-linear-gradient(45deg, red 0px,red 5px, blue 5px, blue 10px);
+}
+.div3
+{
+   background-image: radial-gradient(yellow,green);
+}
+.div4
+{
+   background-image: repeating-radial-gradient(green,green 5px, yellow 5px, yellow 10px);
+}
+.div5
+{
+   background-image:radial-gradient(yellow,green,transparent),linear-gradient(180deg,blue,gray,purple);
+}
