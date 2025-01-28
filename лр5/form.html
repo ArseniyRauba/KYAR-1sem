@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+form {background-color: indigo; color: rgba(255, 255, 255, 1);  font-size: 1.2em; padding: 10px;}
+input[type=text], input[type=email] {background-color: rgba(255, 255, 255, .5); box-shadow: inset 0 0 10px rgba(255, 255, 255, .75); float: right; margin-right: 20px; height: 22px; border-radius: 4px;}
+button {background-color: navy; box-shadow: 0 0 4px white; height: 30px; color:rgba(255, 255, 255, 1);}
+.form{
+width: 22em;
+}
+select {margin-left: 159px;}
+input[type=date] {margin-left: 53px;}
+div{float: right;}
+button:first-child {margin-left: 180px;}
+input[type=text]:focus {background-color: white; color: black;}
+
+    </style>
+</head>
+<body>
+    <form class="form"> 
+    <legend><b>Регистрация постоянного клиента</b></legend>
+    <p>Фамилия: <input type="text"></p>
+    <p>Имя: <input type="text"></p>
+    <p>Отчество: <input type="text"></p>
+    <p>Ваш возраст: <input type="text"></p>
+    Пол:<div><input type="checkbox" class="male">Мужской <input type="checkbox" class="female">Женский </div>
+    <p>Email: <input type="email"></p>
+    <p>Страна проживания: <input type="text"></p>
+    <p>Откуда вы узнали о <br>нас?<select name="select">
+        <option value="value1">VK</option>
+        <option value="value2">Instagram</option>
+        <option value="value3" selected>Telegram</option>
+    </select> </p>
+    Дата заполнения <input type="date">
+    <p><button>Регистрация</button>
+    <button>Отмена</button>
+    </p>
+    </form>
+</body>
+</html>

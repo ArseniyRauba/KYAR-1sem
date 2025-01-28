@@ -1,0 +1,158 @@
+body 
+{
+    margin: 10px;
+}
+div
+{
+    font-size: large;
+    display: inline;
+}
+.a1
+{
+    border-color: rgb(255,0,0);
+    border-style: outset;
+    border-width: medium;
+    padding: 10px;
+}
+.a2
+{
+    border-color: rgb(0,255,0);
+    border-style: dashed;
+    border-width: medium;
+    padding: 10px;
+}
+.a3
+{
+    border-color: rgb(0,0,255);
+    border-style: dotted;
+    border-width: medium;
+    padding: 10px;
+}
+.a4
+{
+    border-color: rgb(0,255,255);
+    border-style: double;
+    border-width: medium;
+    padding: 10px;
+}
+.a5
+{
+    border-color: rgb(255,0,255);
+    border-style: ridge;
+    border-width: medium;
+    padding: 10px;
+}
+.a6
+{
+    border-color: rgb(255,255,0);
+    border-style: inset;
+    border-width: medium;
+    padding: 10px;
+}
+.a7
+{
+    border-color: rgb(0,0,0);
+    border-style: solid;
+    border-width: medium;
+    padding: 10px;
+}
+span
+{
+    display: inline-block;
+    margin: 5px;
+    border-style: solid;
+    border-color: #FF4500;
+    background-color: #FFA500;
+}
+.p1
+{
+  width: 400px;
+  border-style: solid;
+  border-color: #FF7F50;
+  text-align: center;
+}
+.p2
+{
+    border-style: solid;
+    border-color: red;
+    border-width: 5px;
+    border-radius: 20px/40px;
+    box-shadow: inset 2px 2px 8px 8px rgba(0,0,0,.5);
+    overflow: auto;
+}
+.p3
+{
+    border-style: solid;
+    border-color: #FF6347;
+}
+/*css for block.html*/
+.b1
+{
+    border-style: solid;
+    border-left-color: brown;
+    border-bottom-color: yellow;
+    border-right-color: darkblue;
+    border-top-color: orange;
+}
+.b2
+{
+    border-left-style: solid;
+    border-right-style: solid;
+    border-color: #007BA7;
+}
+.b3
+{
+    border-top-color: rgb(229 43 80);
+    border-top-style: solid;
+    border-style: dashed;
+    border-color: cyan;
+}
+.b4
+{
+    border-style: dotted;
+    border-color: orange;
+    border-width: 1px;  
+}
+.b5
+{
+    border-left-style: solid;
+    border-right-style: solid;
+    border-left-color: darkblue;
+    border-right-style: darkblue;
+    border-style: dashed;
+    border-color: purple;
+}
+.b6
+{
+    border-style: double;
+    border-color: #B3446C;
+}
+.b7
+{
+    border-top-style: dashed;
+    border-top-color: #808000;
+    border-top-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #FF7518;
+    border-bottom-width: 3px;
+}
+.b8
+{
+    border-left-style: double;
+    border-bottom-style: double;
+    border-color: #CC7722;
+}
+.b9
+{
+    border-right-style: ridge;
+    border-top-style: ridge;
+    border-color: #B5A642;
+}
+.b10
+{
+    border-right-style: dotted;
+    border-left-style: dotted;
+    border-bottom-style: dotted;
+    border-color: rgb(0 40 0);
+    border-width: 5px;
+}

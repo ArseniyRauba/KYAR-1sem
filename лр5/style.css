@@ -1,0 +1,33 @@
+td,tr
+{
+    text-align: center;
+    empty-cells: hide;
+    border:1px ridge grey;
+}
+caption{
+    size: 1.2em;
+    text-align: center;
+}
+table{
+    border-spacing: 0px;
+}
+.thead
+{
+    background-color: deepskyblue;
+    color: white;
+}
+.stlb2
+{
+    background-color: darkblue;
+    color: white;
+}
+.stbl3
+{
+    background-color: purple;
+    color: white;
+}
+.stbl4
+{
+    background-color: green;
+    color: white;
+}
