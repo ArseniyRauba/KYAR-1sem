@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<?xml-stylesheet  version="1.0" type="text/xml" href="Задание 1.XSL"?>
+
+<who>
+
+<Kia>ПК мыши с платформы Onliner</Kia>
+
+<block>
+<paragraph>Игровая мышь Logitech G102 Lightsync</paragraph>
+
+<when>
+Полноразмерная игровая мышь для ПК, проводная USB, сенсор оптический 8000 dpi, 6 кнопок, колесо с нажатием, цвет черный
+</when>
+
+<whom>Цена: 79 </whom>
+</block>
+
+<block>
+<paragraph>Игровая мышь Logitech G304 Lightspeed </paragraph>
+
+<when>
+Полноразмерная игровая мышь для ПК, беспроводная радио, сенсор оптический 12000 dpi, 6 кнопок, колесо с нажатием, цвет черный.
+</when>
+
+<whom>Цена: 140 </whom>
+</block>
+
+<block>
+<paragraph>Игровая мышь Razer Deathadder V3 Pro </paragraph>
+
+<when>
+Полноразмерная игровая мышь для ПК, проводная USB/беспроводная радио, сенсор оптический 30000 dpi, 6 кнопок, колесо с нажатием, цвет красный/черный/цветной принт
+</when>
+
+<whom>Цена: 799 </whom>
+</block>
+
+<block>
+<paragraph>Игровая мышь Razer Basilisk V3 Pro</paragraph>
+
+<when>
+Полноразмерная игровая мышь для ПК, проводная USB/беспроводная радио/Bluetooth, сенсор оптический 30000 dpi, 11 кнопок, колесо с нажатием и отклонением, цвет белый
+</when>
+
+<whom>Цена: 1398 </whom>
+</block>
+
+<block>
+<paragraph>Мышь A4Tech K3-23E</paragraph>
+
+<when>
+Мышь, проводная USB, сенсор оптический 1000 dpi, 3 кнопки, колесо с нажатием
+Для лохов.
+</when>
+
+<whom>Цена: 4 </whom>
+</block>
+
+<block>
+<paragraph>Игровая мышь Razer Viper Ultimate</paragraph>
+<when>
+полноразмерная игровая мышь для ПК, проводная USB/беспроводная радио, сенсор оптический 20000 dpi, 8 кнопок, колесо с нажатием, цвет черный
+</when>
+
+<whom>Цена: 332.91 </whom>
+</block>
+
+</who>
